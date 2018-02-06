@@ -1,4 +1,4 @@
-![Students' Gymkhana 2017](https://img.shields.io/badge/Students'%20Gymkhana-2017-red.svg)
+![Students' Gymkhana 2018](https://img.shields.io/badge/Students'%20Gymkhana-2017-red.svg)
 ![Status active](https://img.shields.io/badge/Status-active%20development-2eb3c1.svg)
 ![Django 1.11.3](https://img.shields.io/badge/Django-1.11.3-green.svg)
 ![Build beta-0.1](https://img.shields.io/badge/Build-beta--0.1-orange.svg)
